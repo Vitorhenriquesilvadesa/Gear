@@ -1,0 +1,4 @@
+﻿  SurvivalReckoning.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+SurvivalReckoning.obj : error LNK2019: símbolo externo não resolvido, "public: class std::shared_ptr<class SRMM::Transform> __cdecl SRMM::GameObject::GetComponent<class SRMM::Transform>(void)" (??$GetComponent@VTransform@SRMM@@@GameObject@SRMM@@QEAA?AV?$shared_ptr@VTransform@SRMM@@@std@@XZ), referenciado na função "private: virtual void __cdecl SurvivalReckoning::OnStart(void)" (?OnStart@SurvivalReckoning@@EEAAXXZ)
+C:\Github\CPlusPlus\Survival Reckoning\x64\Debug\Survival Reckoning.exe : fatal error LNK1120: 1 externo não resolvidos

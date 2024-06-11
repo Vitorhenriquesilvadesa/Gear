@@ -1,0 +1,5 @@
+﻿shader:
+    author: "Vitor Henrique Silva de Sá"
+    name: "DefaultShader"
+    vertex: "default.vertex"
+    fragment: "default.fragment"
